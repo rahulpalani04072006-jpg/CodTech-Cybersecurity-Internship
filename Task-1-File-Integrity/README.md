@@ -4,10 +4,10 @@ INTERN ID :CTIS063
 DOMAIN NAME:CYBERSECURITY AND ETHICAL HACKING                                                                                                                                                                          
 DURATION:28 DAYS                                                                                                                                                                                                       
 ## Description
-This task involves monitoring file integrity by calculating and comparing cryptographic
-hash values. The tool helps detect unauthorized file modifications by generating a
-secure hash of a file and verifying it after changes. Any mismatch in hash values
-indicates that the file has been altered, ensuring data authenticity and integrity.
+This task focuses on developing a Python-based web application vulnerability scanner.
+The tool analyzes web pages and HTML forms to identify common security vulnerabilities
+such as SQL Injection and Cross-Site Scripting (XSS). It works by submitting test
+payloads and observing server responses to detect potential security weaknesses.
 ## Concepts Used
 - Hashing
 - File handling
