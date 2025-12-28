@@ -15,3 +15,4 @@ payloads and observing server responses to detect potential security weaknesses.
 
 ## Outcome
 Learned how hash values ensure file integrity using Python.
+<img width="689" height="298" alt="image" src="https://github.com/user-attachments/assets/7e1502cd-77bf-474f-aeb2-877484853c1c" />
